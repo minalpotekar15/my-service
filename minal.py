@@ -1,1 +1,3 @@
-print "Hello Wolrd"
+print "Hello Wolrd to all"
+
+print "Hello python"
